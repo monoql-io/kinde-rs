@@ -1,5 +1,5 @@
 [package]
-name = "openapi"
+name = "kinde-rust"
 version = "0.1.0"
 authors = ["support@kinde.com"]
 description = "Provides endpoints to manage your Kinde Businesses"
