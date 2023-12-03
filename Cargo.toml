@@ -1,8 +1,8 @@
 [package]
-name = "kinde-rust"
+name = "kinde-rs"
 version = "0.1.0"
 authors = ["support@kinde.com"]
-description = "Provides endpoints to manage your Kinde Businesses"
+description = "Provides endpoints to manage the Kinde API."
 # Override this license by providing a License Object in the OpenAPI.
 license = "Unlicense"
 edition = "2018"
